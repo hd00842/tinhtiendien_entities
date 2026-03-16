@@ -1,0 +1,12 @@
+{
+  "domain": "evn_tiered_electricity",
+  "name": "Tính tiền điện EVN",
+  "codeowners": [
+    "@trungdung"
+  ],
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/",
+  "iot_class": "calculated",
+  "requirements": [],
+  "version": "1.2.0"
+}

@@ -1,0 +1,49 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Tính tiền điện EVN",
+        "description": "Chọn thực thể điện năng (kWh), nhập giá điện theo 6 bậc và cấu hình VAT/phí cố định.",
+        "data": {
+          "ten": "Tên cảm biến",
+          "thuc_the_nguon": "Thực thể nguồn (kWh)",
+          "gia_dien_bac_1": "Giá điện bậc 1",
+          "gia_dien_bac_2": "Giá điện bậc 2",
+          "gia_dien_bac_3": "Giá điện bậc 3",
+          "gia_dien_bac_4": "Giá điện bậc 4",
+          "gia_dien_bac_5": "Giá điện bậc 5",
+          "gia_dien_bac_6": "Giá điện bậc 6",
+          "tinh_vat": "Tính VAT",
+          "ty_le_vat": "Tỷ lệ VAT (%)",
+          "phi_co_dinh": "Phí cố định (VND)"
+        }
+      }
+    },
+    "error": {
+      "khong_tim_thay_thuc_the": "Không tìm thấy thực thể nguồn.",
+      "gia_tri_khong_hop_le": "Giá trị nhập không hợp lệ (phải lớn hơn hoặc bằng 0)."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Cập nhật cấu hình tính tiền điện EVN",
+        "description": "Bạn có thể thay đổi thực thể nguồn, giá điện từng bậc, VAT và phí cố định.",
+        "data": {
+          "ten": "Tên cảm biến",
+          "thuc_the_nguon": "Thực thể nguồn (kWh)",
+          "gia_dien_bac_1": "Giá điện bậc 1",
+          "gia_dien_bac_2": "Giá điện bậc 2",
+          "gia_dien_bac_3": "Giá điện bậc 3",
+          "gia_dien_bac_4": "Giá điện bậc 4",
+          "gia_dien_bac_5": "Giá điện bậc 5",
+          "gia_dien_bac_6": "Giá điện bậc 6",
+          "tinh_vat": "Tính VAT",
+          "ty_le_vat": "Tỷ lệ VAT (%)",
+          "phi_co_dinh": "Phí cố định (VND)"
+        }
+      }
+    }
+  }
+}
+
