@@ -1,4 +1,4 @@
-# Tính tiền điện EVN (Home Assistant Custom Component)
+# Tính tiền điện EVN (Tích hợp tùy chỉnh cho Home Assistant)
 
 Component tùy chỉnh để tính tiền điện lũy tiến 6 bậc từ một thực thể điện năng (kWh).
 
