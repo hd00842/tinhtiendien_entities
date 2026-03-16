@@ -4,9 +4,13 @@ Component tùy chỉnh để tính tiền điện lũy tiến 6 bậc từ một
 
 ## Thêm nhanh vào HACS
 
-[![Mở Home Assistant của bạn và thêm repository này vào HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=trungdung&repository=tinh_tien_theo_EVN&category=integration)
+[![Mở Home Assistant của bạn và thêm repository này vào HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=hd00842&repository=tinhtiendien_entities&category=integration)
 
-> Nếu bạn đổi tên repo hoặc owner trên GitHub, hãy cập nhật lại `owner` và `repository` trong link badge ở trên.
+Hoặc thêm thủ công trong HACS bằng link:
+
+```text
+https://github.com/hd00842/tinhtiendien_entities.git
+```
 
 ## Tính năng
 

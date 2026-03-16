@@ -2,11 +2,13 @@
   "domain": "evn_tiered_electricity",
   "name": "Tính tiền điện EVN",
   "codeowners": [
-    "@trungdung"
+    "@hd00842"
   ],
   "config_flow": true,
-  "documentation": "https://www.home-assistant.io/",
+  "documentation": "https://github.com/hd00842/tinhtiendien_entities",
+  "issue_tracker": "https://github.com/hd00842/tinhtiendien_entities/issues",
   "iot_class": "calculated",
+  "integration_type": "service",
   "requirements": [],
   "version": "1.2.0"
 }

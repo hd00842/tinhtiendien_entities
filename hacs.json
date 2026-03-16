@@ -1,0 +1,9 @@
+{
+  "name": "Tính tiền điện EVN",
+  "content_in_root": false,
+  "domains": [
+    "evn_tiered_electricity"
+  ],
+  "homeassistant": "2024.1.0",
+  "render_readme": true
+}
